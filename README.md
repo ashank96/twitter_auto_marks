@@ -9,7 +9,7 @@ This app is in it's very first phase and will be taken for further implementatio
  4. Android Studio -recieves JSON from the php server and displays the content
 
 # Steps to execute the code:
-  Executing the code is pretty simple,as the server that makes the api calls is globally hosted:
+  Executing the code is pretty simple,as the server that makes the api calls is globally hosted -:for which the files in the public.html     folder are kept in the publichtml folder of the globally hosted website decoderssit.club.
 
  1. Download and install the twitter_auto_marks.apk file on your smart phone with internet connection.
  2. Open the app and login with your twitter credentials.
