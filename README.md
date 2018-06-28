@@ -1,10 +1,11 @@
 # twitter_auto_marks
-This is an android application which saves the content urls of twitter feed of any user as bookmarks in the database so that the user can view the saved url content whenever he/she wants.
+This is an android application which saves the content urls of twitter feed of any user as bookmarks in the database,so that the user can view the saved url content whenever he/she wants.
+This app is in it's very first phase and will be taken for further implementation and updation both with respect to UI and UX. The present version is a quite basic.
 
 # Technology Stack
  1. Firebase       -for twitter login authentication
  2. PHP            -to make api calls from the server
- 3. MSQL-Mariadb   -Database 
+ 3. MSQL-MariaDb   -Database 
  4. Android Studio -recieves JSON from the php server and displays the content
 
 # Steps to execute the code:
