@@ -1,4 +1,5 @@
-/*Http Handler: This class talks to the server by writing data to the output stream of the Http Url connection and reading from
+/*/* Author: Ashank Bharati 28-06-2018
+Http Handler: This class talks to the server by writing data to the output stream of the Http Url connection and reading from
                 the input stream json string returned from the server.
                 It returns the json response obtained from the server to the DownloadTask.java
 */

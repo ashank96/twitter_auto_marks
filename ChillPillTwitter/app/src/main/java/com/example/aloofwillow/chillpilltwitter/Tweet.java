@@ -1,4 +1,5 @@
-/* Tweet class holds all the attributes of a tweet home which are timestamp,urls,and creater id */
+/* Author: Ashank Bharati 28-06-2018*/
+ /*Tweet class holds all the attributes of a tweet home which are timestamp,urls,and creater id */
 package com.example.aloofwillow.chillpilltwitter;
 
 import java.util.ArrayList;

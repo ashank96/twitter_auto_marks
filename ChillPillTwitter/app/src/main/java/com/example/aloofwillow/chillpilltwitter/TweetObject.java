@@ -1,4 +1,5 @@
-/* TweetObject class holds all the twitter home feed under a specific user*/
+/* Author: Ashank Bharati 28-06-2018*/
+/*TweetObject class holds all the twitter home feed under a specific user*/
 
 package com.example.aloofwillow.chillpilltwitter;
 

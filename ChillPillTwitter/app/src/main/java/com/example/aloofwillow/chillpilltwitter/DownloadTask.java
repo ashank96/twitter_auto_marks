@@ -1,4 +1,5 @@
-/* DownloadTask: This class extends the AsyncTask thereby performs downloading operation in the background and parses the jsonString returned by the
+/*/* Author: Ashank Bharati 28-06-2018
+ DownloadTask: This class extends the AsyncTask thereby performs downloading operation in the background and parses the jsonString returned by the
 *                HttpHandler class
 *                */
 package com.example.aloofwillow.chillpilltwitter;
