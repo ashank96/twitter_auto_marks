@@ -15,6 +15,9 @@ This app is in it's very first phase and will be taken for further implementatio
  2. Open the app and login with your twitter credentials.
  3. You will be redirected to a dashboard activity wherein you can view all your bookmarked urls.
 
+
 That's it ! It is so simple, Now you do not need to worry about missing out any important feeds.
+
+# I have also added a small demo video( appDemoPresentation.mp4 ) of this android application. Please watch it to know the flow of the app.
 
 
