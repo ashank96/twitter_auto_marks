@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799454513116",
+    "firebase_url": "https://twitter-auto-marks.firebaseio.com",
+    "project_id": "twitter-auto-marks",
+    "storage_bucket": "twitter-auto-marks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799454513116:android:21ea11285b368f1c",
+        "android_client_info": {
+          "package_name": "com.example.aloofwillow.chillpilltwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799454513116-06p6v9mdkeop1un6jnvhbnrqo7c40qd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aloofwillow.chillpilltwitter",
+            "certificate_hash": "48b33c5c124c69dd5cc6e660a70aa63844d842bb"
+          }
+        },
+        {
+          "client_id": "799454513116-doce0a3n9ttm0i6kcqubll4ocgtjlbfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Zv2whrfx6xVZfJ46TVi_rzTjtRQExwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799454513116-doce0a3n9ttm0i6kcqubll4ocgtjlbfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
