@@ -17,7 +17,7 @@ This app is in it's very first phase and will be taken for further implementatio
 
 
 That's it ! It is so simple, Now you do not need to worry about missing out any important feeds.
-
+In case there is any issue while running the app.....
 # I have also added a small demo video( appDemoPresentation.mp4 ) of this android application. Please watch it to know the flow of the app.
 
 
